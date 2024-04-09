@@ -1,0 +1,48 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+
+
+.sun{
+ display: none;   
+
+
+}
+.eye{
+    display: none;
+}
+.eye1{
+    display: none;
+}
+.div{
+    position: relative;
+    
+}
+.password1,.eye,.slash{
+    position: absolute;
+    
+    
+}
+.eye,.slash{
+    left: 650px;
+    top: 10px;
+}
+.eye1,.slash1{
+    left: 650px;
+    top: 10px;
+}
+
+.password1,.eye1,.slash1{
+    position: absolute;
+    
+    
+}
+.password1{
+    /* position: absolute;
+    z-index: 1; */
+}
+
